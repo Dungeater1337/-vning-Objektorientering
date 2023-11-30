@@ -1,15 +1,15 @@
 class Paladin : Character 
 {
-    private  Paladin(string name, int hp) : base(name, hp)
+    private int HolyPower;
+    public Paladin(string name, int hp, int holyPower) : base(name, hp)
     {
-        Weapon = weapon;
+        HolyPower = holyPower;
     }
+    
 
-    private override string Name => $"Paladin: {base.Name}";
-    private override int HP => base.HP;
 
     public override void Print()
     {
-        Console.WriteLine($"Name: {Name}, HP: {HP}");
+        Console.WriteLine($"Name: {Name}, HP: {HP}, HolyPower: {HolyPower}");
     }
 }

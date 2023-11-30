@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.AssemblyInfo.cs
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\bin\Debug\net7.0\-vning-Objektorientering.exe
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\bin\Debug\net7.0\-vning-Objektorientering.deps.json
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\bin\Debug\net7.0\-vning-Objektorientering.runtimeconfig.json
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\bin\Debug\net7.0\-vning-Objektorientering.dll
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\bin\Debug\net7.0\-vning-Objektorientering.pdb
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.dll
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\refint\-vning-Objektorientering.dll
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.pdb
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\-vning-Objektorientering.genruntimeconfig.cache
+C:\Users\Admin\Documents\Unity\BreakOut\-vning-Objektorientering\obj\Debug\net7.0\ref\-vning-Objektorientering.dll

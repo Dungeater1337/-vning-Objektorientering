@@ -1,12 +1,11 @@
 abstract class Character
 {
-    protected abstract string Name;
-    protected abstract int HP;
-    int Character(string name, int hp)
+    protected string Name;
+    protected int HP;
+    public Character(string name, int hp)
     {
-        Name = name;
-        HP = hp; 
+        this.Name = name;
+        this.HP = hp;
     }
-
-    private abstract void Print();
+    public abstract void Print();
 }
